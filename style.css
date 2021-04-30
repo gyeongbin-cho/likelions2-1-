@@ -1,0 +1,86 @@
+body{
+    background-image: url(lion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.main{
+   
+    margin-top: 120px;
+    margin-left: 100px;
+    text-align: left;
+
+}
+.title{
+    font-size: 3.5rem;
+    font-weight:bolder;
+    
+}
+.subtitle{
+    font-size: 30px;
+    font-weight: 450;
+    
+    
+}
+.pg{
+    font-size: medium;
+    font-weight: lighter;
+    width: 480px;
+    text-align:justify;      
+}
+.head{
+    color:rgb(92, 91, 91);
+    font-size: 15px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.subin{
+    width:200px;
+    height:70px;
+    border: 2px solid black;
+    margin: 15px;
+    margin-left: 75px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight:450;  
+}
+.interest{
+    display: flex;
+}
+.subintitle{
+    
+    color: white;
+    border-radius:3px ;
+    background-color: black;
+    height:25px;
+    width:auto;
+    
+}
+.subindetail{
+    font-size: 13px;
+    margin-top: 15px;
+    color: black;
+}
+.button{
+    position:absolute;
+    left:100px;
+    top:550px;   
+    
+}
+.button1{
+    background-color: rgb(90, 90, 90);
+    width: 120px;
+    height:40px;
+    border-radius: 20px;
+    color:white;
+}
+.button2{
+    background-color: rgb(90, 90, 90);
+    width: 120px;
+    height:40px;
+    border-radius: 20px;
+    margin-left: 15px;
+    color:white;
+}
